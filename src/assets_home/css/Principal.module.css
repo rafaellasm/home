@@ -1,4 +1,4 @@
-@media screen and (max-width: 300px){
+@media screen and (max-width: 480px){
     .infos_principais {
         position: relative;
         width: 100%;
@@ -33,7 +33,7 @@
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 667px) {
+@media screen and (min-width: 485px) and (max-width: 667px) {
     .infos_principais {
         position: relative;
         width: 100%;
