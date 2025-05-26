@@ -12,7 +12,7 @@
 
         & .descubra h2 {
             font-family: "Baloo Thambi", sans-serif;
-            font-size: 12vw;
+            font-size: 11vw;
         }
 
         & .mudar_cor {
@@ -21,7 +21,7 @@
         }
 
         & .paragrafo_explicacao {
-            font-size: 9vw;
+            font-size: 7vw;
             margin-top: 5vw;
             font-weight: 600;
         }
@@ -29,7 +29,7 @@
         & .carrossel_mobile p {
             color: #d6005e;
             font-family: "Baloo Thambi", sans-serif;
-            font-size: 10vw;
+            font-size: 8vw;
             margin-top: 8vw;
         }
     }
@@ -470,7 +470,7 @@
 
         & .descubra h2 {
             font-family: "Baloo Thambi", sans-serif;
-            font-size: 11vw;
+            font-size: 10vw;
         }
 
         & .mudar_cor {
@@ -479,7 +479,7 @@
         }
 
         & .paragrafo_explicacao {
-            font-size: 7vw;
+            font-size: 5vw;
             margin-top: 5vw;
             font-weight: 600;
         }
@@ -487,7 +487,7 @@
         & .carrossel_mobile p {
             color: #d6005e;
             font-family: "Baloo Thambi", sans-serif;
-            font-size: 8vw;
+            font-size: 6.5vw;
             margin-top: 8vw;
         }
     }

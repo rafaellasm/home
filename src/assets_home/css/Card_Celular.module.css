@@ -12,11 +12,11 @@
         & .titulo_acenis {
             font-family: "Baloo Thambi", sans-serif;
             color: #1971C2;
-            font-size: 14vw;
+            font-size: 12vw;
         }
 
         & .paragrafo_acenis {
-            font-size: 12vw;
+            font-size: 7vw;
             padding: 0 8vw;
             font-weight: 600;
         }
@@ -88,11 +88,11 @@
         & .titulo_acenis {
             font-family: "Baloo Thambi", sans-serif;
             color: #1971C2;
-            font-size: 13vw;
+            font-size: 10vw;
         }
 
         & .paragrafo_acenis {
-            font-size: 5vw;
+            font-size: 4.3vw;
             padding: 0 8vw;
             font-weight: 600;
         }
@@ -140,7 +140,7 @@
 
     .saiba_mais button {
         width: 45vw;
-        height: 7vh;
+        height: 10vh;
         border: none;
         border-radius: 20vw;
         font-size: 4vw;

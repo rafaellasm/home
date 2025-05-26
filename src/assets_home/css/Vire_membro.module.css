@@ -27,12 +27,13 @@
 
         & .ver_planos {
             position: absolute;
-            top: 65%;
+            top: 75%;
             text-align: center;
 
             & h2 {
                 font-family: "Baloo Thambi", sans-serif;
-                font-size: 9vw;
+                font-size: 10vw;
+                line-height: 1;
 
                 & .muda_cor {
                     color: #ebca5c;
@@ -46,14 +47,15 @@
             }
 
             & p {
-                font-size: 6vw;
+                font-size: 5vw;
                 font-weight: 600;
+                margin-top: 2%;
             }
 
             & button {
                 width: 40vw;
                 margin-top: 5vw;
-                height: 5vh;
+                height: 7vh;
                 border-radius: 20px;
                 border: none;
                 background-color: #7aeab8;
@@ -98,13 +100,13 @@
 
         & .ver_planos {
             position: absolute;
-            top: 75%;
-            left: 15.4%;
+            top: 80%;
+            left: 8%;
             text-align: center;
 
             & h2 {
                 font-family: "Baloo Thambi", sans-serif;
-                font-size: 6vw;
+                font-size: 8vw;
 
                 & .muda_cor {
                     color: #ebca5c;
@@ -118,14 +120,14 @@
             }
 
             & p {
-                font-size: 3.1vw;
+                font-size: 3.5vw;
                 font-weight: 600;
             }
 
             & button {
                 width: 40vw;
                 margin-top: 5vw;
-                height: 5vh;
+                height: 8vh;
                 border-radius: 20px;
                 border: none;
                 background-color: #7aeab8;
