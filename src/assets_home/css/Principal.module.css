@@ -1,0 +1,139 @@
+@media screen and (max-width: 279px){
+    .infos_principais {
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        background-image: url("../images/fundo_home.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+
+        & h1 {
+            font-size: 15vw;
+            font-family: "Baloo Thambi", sans-serif;
+            color: #2392EB;
+            letter-spacing: 5px;
+
+            & .muda_cor {
+                color: #EBCA5C;
+                font-family: "Baloo Thambi", sans-serif;
+            }
+        }
+
+        & p {
+            font-size: 5vw;
+            font-weight: 700;
+            color: #fff;
+        }
+    }
+}
+
+@media screen and (min-width: 280px) and (max-width: 667px) {
+    .infos_principais {
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        background-image: url("../images/fundo_home.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+
+        & h1 {
+            font-size: 9vw;
+            font-family: "Baloo Thambi", sans-serif;
+            color: #2392EB;
+            letter-spacing: 5px;
+
+            & .muda_cor {
+                color: #EBCA5C;
+                font-family: "Baloo Thambi", sans-serif;
+            }
+        }
+
+        & p {
+            font-size: 3.8vw;
+            font-weight: 700;
+            color: #fff;
+        }
+    }
+}
+
+@media screen and (min-width: 668px) and (max-width: 1023px) {
+    .infos_principais {
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        background-image: url("../images/fundo_home.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+
+        & h1 {
+            font-size: 8vw;
+            font-family: "Baloo Thambi", sans-serif;
+            color: #2392EB;
+            letter-spacing: 5px;
+
+            & .muda_cor {
+                color: #EBCA5C;
+                font-family: "Baloo Thambi", sans-serif;
+            }
+        }
+
+        & p {
+            font-size: 3.5vw;
+            font-weight: 700;
+            color: #fff;
+        }
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .infos_principais {
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        background-image: url("../images/fundo_home.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+
+        & h1 {
+            font-size: 10vw;
+            font-family: "Baloo Thambi", sans-serif;
+            color: #2392EB;
+            letter-spacing: 5px;
+
+            & .muda_cor {
+                color: #EBCA5C;
+                font-family: "Baloo Thambi", sans-serif;
+            }
+        }
+
+        & p {
+            font-size: 3.5vw;
+            font-weight: 700;
+            color: #fff;
+        }
+    }
+}

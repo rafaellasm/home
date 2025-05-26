@@ -1,0 +1,238 @@
+@media screen and (max-width: 279px) {
+    .container_porcentagem {
+        width: 100%;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 25px;
+        margin-top: 20%;
+
+        & .titulo_acenis {
+            font-family: "Baloo Thambi", sans-serif;
+            color: #1971C2;
+            font-size: 12vw;
+        }
+
+        & .paragrafo_acenis {
+            font-size: 5vw;
+            padding: 0 8vw;
+            font-weight: 600;
+        }
+    }
+
+    .container_verde,
+    .container_rosa,
+    .container_azul {
+        width: 68vw;
+        height: 38vh;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        color: #000;
+        margin-top: 12vw;
+    }
+
+    .container_verde {
+        background-image: linear-gradient(#5BE8A4, #FFF);
+    }
+
+    .container_rosa {
+        background-image: linear-gradient(#F76C8C, #FFF);
+    }
+
+    .container_azul {
+        background-image: linear-gradient(#1971C2, #FFF);
+    }
+
+    .container_verde h2,
+    .container_rosa h2,
+    .container_azul h2 {
+        font-family: "Baloo Thambi", sans-serif;
+        font-size: 12vw;
+    }
+
+    .container_verde p,
+    .container_rosa p,
+    .container_azul p {
+        font-size: 6vw;
+        font-weight: 600;
+    }
+
+    .saiba_mais button {
+        width: 45vw;
+        height: 7vh;
+        border: none;
+        border-radius: 20vw;
+        font-size: 6vw;
+        box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);
+        background-color: #74eab8;
+        margin-top: 10vw;
+    }
+}
+
+@media screen and (min-width: 280px) and (max-width: 667px) {
+    .container_porcentagem {
+        width: 100%;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 25px;
+        margin-top: 20%;
+
+        & .titulo_acenis {
+            font-family: "Baloo Thambi", sans-serif;
+            color: #1971C2;
+            font-size: 8vw;
+        }
+
+        & .paragrafo_acenis {
+            font-size: 2.8vw;
+            padding: 0 8vw;
+            font-weight: 600;
+        }
+    }
+
+    .container_verde,
+    .container_rosa,
+    .container_azul {
+        width: 48vw;
+        height: 38vh;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        color: #000;
+        margin-top: 12vw;
+    }
+
+    .container_verde {
+        background-image: linear-gradient(#5BE8A4, #FFF);
+    }
+
+    .container_rosa {
+        background-image: linear-gradient(#F76C8C, #FFF);
+    }
+
+    .container_azul {
+        background-image: linear-gradient(#1971C2, #FFF);
+    }
+
+    .container_verde h2,
+    .container_rosa h2,
+    .container_azul h2 {
+        font-family: "Baloo Thambi", sans-serif;
+        font-size: 8vw;
+    }
+
+    .container_verde p,
+    .container_rosa p,
+    .container_azul p {
+        font-size: 2.8vw;
+        font-weight: 600;
+    }
+
+    .saiba_mais button {
+        width: 35vw;
+        height: 7vh;
+        border: none;
+        border-radius: 20vw;
+        font-size: 3.5vw;
+        box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);
+        background-color: #74eab8;
+        margin-top: 10vw;
+    }
+}
+
+@media screen and (min-width: 668px) and (max-width: 1023px) {
+    .container_porcentagem {
+        width: 100%;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 25px;
+        margin-top: 10vw;
+
+        & .titulo_acenis {
+            font-family: "Baloo Thambi", sans-serif;
+            color: #1971C2;
+            font-size: 6vw;
+        }
+
+        & .paragrafo_acenis {
+            font-size: 2.5vw;
+            padding: 0 8vw;
+            font-weight: 600;
+        }
+    }
+
+    .cards {
+        display: flex;
+        gap: 30px;
+    }
+
+    .container_verde,
+    .container_rosa,
+    .container_azul {
+        width: 28vw;
+        height: 38vh;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        color: #000;
+        margin-top: 12vw;
+    }
+
+    .container_verde {
+        background-image: linear-gradient(#5BE8A4, #FFF);
+    }
+
+    .container_rosa {
+        background-image: linear-gradient(#F76C8C, #FFF);
+    }
+
+    .container_azul {
+        background-image: linear-gradient(#1971C2, #FFF);
+    }
+
+    .container_verde h2,
+    .container_rosa h2,
+    .container_azul h2 {
+        font-family: "Baloo Thambi", sans-serif;
+        font-size: 6vw;
+    }
+
+    .container_verde p,
+    .container_rosa p,
+    .container_azul p {
+        font-size: 2.8vw;
+        font-weight: 600;
+    }
+
+    .saiba_mais button {
+        width: 30vw;
+        height: 10vh;
+        border: none;
+        border-radius: 20vw;
+        font-size: 3vw;
+        box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);
+        background-color: #74eab8;
+        margin-top: 10vw;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .container_porcentagem {
+        display: none;
+    }
+}
