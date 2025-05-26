@@ -75,16 +75,17 @@
         width: 100%;
         height: 100vh;
         background-image: url("../images/vire_membro/vire_membro_acenis.png");
-        background-size: 90%;
+        background-size: 80%;
         background-repeat: no-repeat;
         background-position: center;
-        margin-top: 20%;
+        margin-top: 25%;
 
 
         & .vire_membro {
-            position: relative;
-            margin: 0 auto;
+            position: absolute;
             width: 50%;
+            top: -10%;
+            left: 25%;
 
             & img {
                 width: 100%;
@@ -96,17 +97,14 @@
         }
 
         & .ver_planos {
-            position: relative;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            position: absolute;
+            top: 55%;
+            left: 15.4%;
             text-align: center;
-            flex-direction: column;
-            margin-top: 10%;
 
             & h2 {
                 font-family: "Baloo Thambi", sans-serif;
-                font-size: 7vw;
+                font-size: 6vw;
 
                 & .muda_cor {
                     color: #ebca5c;
@@ -127,7 +125,7 @@
             & button {
                 width: 40vw;
                 margin-top: 5vw;
-                height: 6vh;
+                height: 8vh;
                 border-radius: 20px;
                 border: none;
                 background-color: #7aeab8;
