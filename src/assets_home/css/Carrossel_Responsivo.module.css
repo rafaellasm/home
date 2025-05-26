@@ -1,4 +1,4 @@
-@media screen and (max-width: 279px) {
+@media screen and (max-width: 300px) {
     .carrossel_responsivo {
         display: flex;
         align-items: center;
@@ -456,7 +456,7 @@
     }
 }
 
-@media screen and (min-width: 280px) and (max-width: 667px) {
+@media screen and (min-width: 320px) and (max-width: 667px) {
     .carrossel_responsivo {
         display: flex;
         align-items: center;
@@ -470,7 +470,7 @@
 
         & .descubra h2 {
             font-family: "Baloo Thambi", sans-serif;
-            font-size: 12vw;
+            font-size: 11vw;
         }
 
         & .mudar_cor {

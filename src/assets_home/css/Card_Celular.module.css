@@ -1,4 +1,4 @@
-@media screen and (max-width: 279px) {
+@media screen and (max-width: 300px) {
     .container_porcentagem {
         width: 100%;
         flex-direction: column;
@@ -74,7 +74,7 @@
     }
 }
 
-@media screen and (min-width: 280px) and (max-width: 667px) {
+@media screen and (min-width: 320px) and (max-width: 667px) {
     .container_porcentagem {
         width: 100%;
         flex-direction: column;

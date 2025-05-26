@@ -1,4 +1,4 @@
-@media screen and (max-width: 279px) {
+@media screen and (max-width: 300px) {
     .conteudo_vire_membro {
         position: relative;
         width: 100%;
@@ -69,7 +69,7 @@
     }
 }
 
-@media screen and (min-width: 280px) and (max-width: 667px) {
+@media screen and (min-width: 320px) and (max-width: 667px) {
     .conteudo_vire_membro {
         position: relative;
         width: 100%;
